@@ -1,0 +1,96 @@
+operators-
+1.	Swapping using bitwise operators without using 3 rd variable
+2.	To find last 2 digit of the given number
+3.	To find middle digit of the number
+4.	Write a program to take a five-digit number as input, square the middle digit and print number and the square.
+Input Data:
+Input an integer: 54623
+Expected Output
+Square of 6 is: 36
+5.	To find last digit of the number
+if-else
+1.	Write a program to accept the length and breadth of a shape and print if they are the same. If they are the same, print it’s a square otherwise its rectangle. 
+2.	Write a program to accept a number and check if its square is above 50 or below 50.
+3.	Write a program to accept two numbers, subtract the two numbers and check if the difference (answer) is 0 or not
+4.	Write a program to read the Computer Science marks of a student and print if the student has passed or failed. The student has passed if marks is 50 or above otherwise failed).
+5.	Write a program to accept a number and check if the number is divisible by 10.
+6.	Write a program to take a two-digit number and print the biggest digit.
+7.	Write a program to accept a value from the user. If the value entered is 1 then print “You can go out and play” otherwise “You cannot go out and play”
+8.	Write a program to accept the choice from the user. If the choice is 1 print “The exam will be easy”, otherwise print “The exam will be difficult”.
+9.	Write a Java program that functions as a basic calculator. The program will prompt the user to input two numbers and a mathematical operation (+, -, x, /). It will then perform the selected operation and display the result on the screen.
+10.	To input weight of the parcel and type of booking (`O' for ordinary and 'E' for express).
+To compute and display the charges based on the weight of the parcel as per the tariff given 
+ 
+11.	Write a program to compute the discount according to the given conditions for the purchase of laptop. to take the price of the laptop.
+to calculate the charge according to the following condition.
+ 
+Display the output as per the given format:
+ Price of laptop : 
+Discount : 
+Total Price :
+12.	A library charges fine for books returned late. To calculate the fine, define a class Library with the following .
+To input the number of days books were returned late.
+To calculate and print the fine based on the following condition:
+ First five days 40 paisa per day 
+Six to ten days 65 paisa per day 
+above 10 days 80 paisa per day
+13.	A number is said to be Buzz Number if it ends with 7 or is divisible by 7. Example: 1007 is a Buzz Number. Define a class Buzz number to read a number and check if it is a Buzz number or not.
+14.	Write a program to input a number and check whether the number is an 
+automorphic number or not.
+An automorphic number is a number whose square "ends" in the same digits 
+as the number itself.
+e.g. 52 = 25, 62 = 36, 762 = 5776
+15 .  write a program which accepts a character and prints if it is a capital letter or 
+not.
+if-else
+1.	Write a program to accept the length and breadth of a shape and print if they are the same. If they are the same, print it’s a square otherwise its rectangle. 
+2.	Write a program to accept a number and check if its square is above 50 or below 50.
+3.	Write a program to accept two numbers, subtract the two numbers and check if the difference (answer) is 0 or not
+4.	Write a program to read the Computer Science marks of a student and print if the student has passed or failed. The student has passed if marks is 50 or above otherwise failed).
+5.	Write a program to accept a number and check if the number is divisible by 10.
+6.	Write a program to take a two-digit number and print the biggest digit.
+7.	Write a program to accept a value from the user. If the value entered is 1 then print “You can go out and play” otherwise “You cannot go out and play”
+8.	Write a program to accept the choice from the user. If the choice is 1 print “The exam will be easy”, otherwise print “The exam will be difficult”.
+9.	Write a Java program that functions as a basic calculator. The program will prompt the user to input two numbers and a mathematical operation (+, -, x, /). It will then perform the selected operation and display the result on the screen.
+10.	To input weight of the parcel and type of booking (`O' for ordinary and 'E' for express).
+To compute and display the charges based on the weight of the parcel as per the tariff given 
+ 
+11.	Write a program to compute the discount according to the given conditions for the purchase of laptop. to take the price of the laptop.
+to calculate the charge according to the following condition.
+ 
+Display the output as per the given format:
+ Price of laptop : 
+Discount : 
+Total Price :
+12.	A library charges fine for books returned late. To calculate the fine, define a class Library with the following .
+To input the number of days books were returned late.
+To calculate and print the fine based on the following condition:
+ First five days 40 paisa per day 
+Six to ten days 65 paisa per day 
+above 10 days 80 paisa per day
+13.	A number is said to be Buzz Number if it ends with 7 or is divisible by 7. Example: 1007 is a Buzz Number. Define a class Buzz number to read a number and check if it is a Buzz number or not.
+14.	Write a program to input a number and check whether the number is an 
+automorphic number or not.
+An automorphic number is a number whose square "ends" in the same digits 
+as the number itself.
+e.g. 52 = 25, 62 = 36, 762 = 5776
+15 .  write a program which accepts a character and prints if it is a capital letter or 
+not.
+Loop tasks
+1.	Write a program that reads a set of integers, and then prints the sum of the even and odd integers.
+2.	Write a program that prompts the user to input a positive integer. It should then print the multiplication table of that number. 
+3.	Write a program to find the factorial value of any number entered through the keyboard. 
+4.	Write a program to print all alphabets from a to z
+5.	 Write a program to print reverse alphabets from Z to A
+6.	Write a program to print the ASCII values
+7.	 Convert the following while loop to the corresponding for loop        
+int m = 5, n = 10;
+while (n>=1)
+{
+System.out.println(m*n);n--;}
+8.	Write a Java program to check whether a number is a Harshad Number or not. Number 200 is a Harshad Number because the sum of digits (2+0+0 = 2) and 200 is divisible by 2
+9.	To find sum of divisors in the given number
+if the number is 10 then the sum of the divisors is 1+2+5+10=18
+10.	Write a program to check whether the given number is palindrome or not. Palindrome is a number when reversed it gives the same number. Example 1: If the number is 121 Reverse is 121 Hence, 121 is a Palindrome Example 2: If the number is 438 Reverse is 834 Hence, 438 is not a Palindrome
+11.	which prints if a number is an Armstrong number or not. 153 is an Armstrong number. 13+53+33 = 153.
+12.	Patterns
