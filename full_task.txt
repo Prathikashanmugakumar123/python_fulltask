@@ -1,4 +1,4 @@
-operators-
+OPERATOR
 1.	Swapping using bitwise operators without using 3 rd variable
 2.	To find last 2 digit of the given number
 3.	To find middle digit of the number
@@ -8,7 +8,8 @@ Input an integer: 54623
 Expected Output
 Square of 6 is: 36
 5.	To find last digit of the number
-if-else
+
+SELECTION CONTORL STATEMENTS---------------------------------------------------------------------------------------------------------------------
 1.	Write a program to accept the length and breadth of a shape and print if they are the same. If they are the same, print it’s a square otherwise its rectangle. 
 2.	Write a program to accept a number and check if its square is above 50 or below 50.
 3.	Write a program to accept two numbers, subtract the two numbers and check if the difference (answer) is 0 or not
@@ -42,41 +43,8 @@ as the number itself.
 e.g. 52 = 25, 62 = 36, 762 = 5776
 15 .  write a program which accepts a character and prints if it is a capital letter or 
 not.
-if-else
-1.	Write a program to accept the length and breadth of a shape and print if they are the same. If they are the same, print it’s a square otherwise its rectangle. 
-2.	Write a program to accept a number and check if its square is above 50 or below 50.
-3.	Write a program to accept two numbers, subtract the two numbers and check if the difference (answer) is 0 or not
-4.	Write a program to read the Computer Science marks of a student and print if the student has passed or failed. The student has passed if marks is 50 or above otherwise failed).
-5.	Write a program to accept a number and check if the number is divisible by 10.
-6.	Write a program to take a two-digit number and print the biggest digit.
-7.	Write a program to accept a value from the user. If the value entered is 1 then print “You can go out and play” otherwise “You cannot go out and play”
-8.	Write a program to accept the choice from the user. If the choice is 1 print “The exam will be easy”, otherwise print “The exam will be difficult”.
-9.	Write a Java program that functions as a basic calculator. The program will prompt the user to input two numbers and a mathematical operation (+, -, x, /). It will then perform the selected operation and display the result on the screen.
-10.	To input weight of the parcel and type of booking (`O' for ordinary and 'E' for express).
-To compute and display the charges based on the weight of the parcel as per the tariff given 
- 
-11.	Write a program to compute the discount according to the given conditions for the purchase of laptop. to take the price of the laptop.
-to calculate the charge according to the following condition.
- 
-Display the output as per the given format:
- Price of laptop : 
-Discount : 
-Total Price :
-12.	A library charges fine for books returned late. To calculate the fine, define a class Library with the following .
-To input the number of days books were returned late.
-To calculate and print the fine based on the following condition:
- First five days 40 paisa per day 
-Six to ten days 65 paisa per day 
-above 10 days 80 paisa per day
-13.	A number is said to be Buzz Number if it ends with 7 or is divisible by 7. Example: 1007 is a Buzz Number. Define a class Buzz number to read a number and check if it is a Buzz number or not.
-14.	Write a program to input a number and check whether the number is an 
-automorphic number or not.
-An automorphic number is a number whose square "ends" in the same digits 
-as the number itself.
-e.g. 52 = 25, 62 = 36, 762 = 5776
-15 .  write a program which accepts a character and prints if it is a capital letter or 
-not.
-Loop tasks
+
+LOOP STATEMENTS-----------------------------------------------------------------------------------------------------------------------------------
 1.	Write a program that reads a set of integers, and then prints the sum of the even and odd integers.
 2.	Write a program that prompts the user to input a positive integer. It should then print the multiplication table of that number. 
 3.	Write a program to find the factorial value of any number entered through the keyboard. 
@@ -94,3 +62,125 @@ if the number is 10 then the sum of the divisors is 1+2+5+10=18
 10.	Write a program to check whether the given number is palindrome or not. Palindrome is a number when reversed it gives the same number. Example 1: If the number is 121 Reverse is 121 Hence, 121 is a Palindrome Example 2: If the number is 438 Reverse is 834 Hence, 438 is not a Palindrome
 11.	which prints if a number is an Armstrong number or not. 153 is an Armstrong number. 13+53+33 = 153.
 12.	Patterns
+STRINGS------------------------------------------------------------------------------------------------------------------------------------------
+1. Reverse Words in a String
+
+Task:
+Input: "Python is easy"
+Output: "easy is Python"
+
+2. Find First Non-Repeated Character
+
+Task:
+Input: "aabbcdde"
+Output: "c"
+
+3. Count Vowels and Consonants
+
+Task:
+Input: "Interview"
+Output:
+Vowels = 4
+Consonants = 5
+
+4. Check Anagram
+
+Task:
+Check if two strings are anagrams.
+Input: "listen", "silent"
+Output: Anagram
+
+5. Remove Duplicate Characters
+
+Task:
+Input: "programming"
+Output: "progamin"
+
+6. Find Most Repeated Character
+
+Task:
+Input: "banana"
+Output: "a" (appears 3 times)
+
+7. Count Occurrence of Each Character
+
+Task:
+Input: "hello"
+Output:
+
+h = 1
+e = 1
+l = 2
+o = 1
+8. Replace Spaces with Special Character
+
+Task:
+Input: "Hello World"
+Replace spaces with "-"
+Output: "Hello-World"
+
+9. Check Palindrome String
+
+Task:
+Input: "madam"
+Output: Palindrome
+
+10. Capitalize First Letter of Each Word
+
+Task:
+Input: "python programming language"
+Output: "Python Programming Language"
+
+11. Find Longest Word in Sentence
+
+Task:
+Input: "Python is a powerful language"
+Output: "powerful"
+
+12. Compress String (Interview Question)
+
+Task:
+Input: "aaabbcccc"
+Output: "a3b2c4"
+
+13. Remove All Special Characters
+
+Task:
+Input: "Pyt#on@123!"
+Output: "Pyton123"
+
+14. Check Rotational String
+
+Task:
+Check if one string is rotation of another.
+Input: "abcd" and "cdab"
+Output: Yes
+
+15. Find Maximum Occurring Word in Sentence
+
+Task:
+Input: "python java python c java python"
+Output: "python"
+COREDATATYPES------------------------------------------------------------------------------------------------------------------------------------
+1.Write a program to reverse a string without using slicing.
+2.Find the first non-repeated character in a string.
+3.Count how many vowels and consonants are present in a string.
+4.Remove duplicate elements from a list without using set().
+5.Find the second largest element in a list.
+6.Find common elements between two lists.
+7.Check whether a string is palindrome or not.
+8.Count frequency of each character in a string.
+9.Merge two dictionaries into one dictionary.
+10.Check whether a key exists in a dictionary.
+11.Find the maximum and minimum number in a list without using max() and min().
+12.Remove all even numbers from a list.
+13.Sort a list without using sort() function.
+14.Find duplicate elements in a list.
+15.Convert a tuple into a list and list into a tuple.
+16.Find the sum of all numbers in a list without using sum().
+17.Count number of words in a sentence.
+18.Find intersection of two sets.
+19.Remove special characters from a string.
+20.Create a student marks dictionary and find:
+Highest mark student
+Lowest mark student
