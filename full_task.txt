@@ -24,7 +24,7 @@ To compute and display the charges based on the weight of the parcel as per the 
  
 11.	Write a program to compute the discount according to the given conditions for the purchase of laptop. to take the price of the laptop.
 to calculate the charge according to the following condition.
- 
+upto 100gm ordinal=100,express=200 ,upto 500gm ordinal=500 ,express =1000 and above 500gm ordinal=1500, express=2500
 Display the output as per the given format:
  Price of laptop : 
 Discount : 
